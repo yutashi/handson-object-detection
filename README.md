@@ -43,10 +43,10 @@ sudo pip3 install tensorflow
 前節同様、依存ライブラリからインストールします。
 
 ```
-sudo apt-get install libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev
-sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
-sudo apt-get install libxvidcore-dev libx264-dev
-sudo apt-get install qt4-dev-tools
+sudo apt install libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev
+sudo apt install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
+sudo apt install libxvidcore-dev libx264-dev
+sudo apt install qt4-dev-tools
 sudo apt install libilmbase12 libopenexr22 libgstreamer1.0-dev
 ```
 

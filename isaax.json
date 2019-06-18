@@ -1,0 +1,7 @@
+{
+    "name": "handson-object-detection",
+    "language":"python",
+    "scripts": {
+      "start": "python3 -u sample.py"
+    }
+}
